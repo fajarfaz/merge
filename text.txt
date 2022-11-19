@@ -1,7 +1,7 @@
 echo "# merge" >> README.md213
-git init213
+git initasd
 git add README.mdasd231
 git commit -m "first commit"aa
-git branch -M mainsadss1
+git branch -M mainsad
 git remote add origin https://github.com/fajarfaz/merge.gitsad
 git push -u origin maindsa
